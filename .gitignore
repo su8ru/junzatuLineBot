@@ -1,0 +1,7 @@
+.idea
+.vscode
+
+config.php
+
+log.txt
+error_log
